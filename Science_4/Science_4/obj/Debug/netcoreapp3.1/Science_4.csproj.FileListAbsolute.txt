@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Science_4\Science_4\bin\Debug\netcoreapp3.1\Science_4.exe
+C:\Users\Роман\source\repos\Science_4\Science_4\bin\Debug\netcoreapp3.1\Science_4.deps.json
+C:\Users\Роман\source\repos\Science_4\Science_4\bin\Debug\netcoreapp3.1\Science_4.runtimeconfig.json
+C:\Users\Роман\source\repos\Science_4\Science_4\bin\Debug\netcoreapp3.1\Science_4.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Science_4\Science_4\bin\Debug\netcoreapp3.1\Science_4.dll
+C:\Users\Роман\source\repos\Science_4\Science_4\bin\Debug\netcoreapp3.1\Science_4.pdb
+C:\Users\Роман\source\repos\Science_4\Science_4\obj\Debug\netcoreapp3.1\Science_4.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Science_4\Science_4\obj\Debug\netcoreapp3.1\Science_4.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Science_4\Science_4\obj\Debug\netcoreapp3.1\Science_4.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Science_4\Science_4\obj\Debug\netcoreapp3.1\Science_4.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Science_4\Science_4\obj\Debug\netcoreapp3.1\Science_4.dll
+C:\Users\Роман\source\repos\Science_4\Science_4\obj\Debug\netcoreapp3.1\Science_4.pdb
+C:\Users\Роман\source\repos\Science_4\Science_4\obj\Debug\netcoreapp3.1\Science_4.genruntimeconfig.cache
